@@ -1,18 +1,25 @@
 <h1 align="center">سلام 👋 من Zee هستم</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=480&lines=Back-end+Developer;Django+%7C+Node.js+%7C+.NET;Focus+on+Clean+Architecture+%26+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=480&lines=Django+Developer;Python+Back-end;Building+clean+%26+scalable+web+apps" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  توسعه‌دهنده بک‌اند با علاقه به طراحی سیستم‌های تمیز، مقیاس‌پذیر و قابل نگهداری<br>
-  معماری خوب = کد خوب + آینده خوب
+  توسعه‌دهنده بک‌اند با تمرکز کامل روی Django<br>
+  عاشق ساخت APIهای تمیز، سیستم‌های مقیاس‌پذیر و کد خوانا
 </p>
 
 <div align="center">
 
   <h3>🛠️ Tech Stack</h3>
-  <img src="https://skillicons.dev/icons?i=django,nodejs,ts,dotnet,cs,postgres,mysql,redis,git,github" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=django,python,postgres,redis,docker,git,github" alt="skills" />
+
+  <!-- یا اگر می‌خوای شیلدهای جداگانه و خواناتر داشته باشی: -->
+  <!--
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  -->
 
   <br><br>
 
@@ -22,7 +29,7 @@
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zee908&layout=compact&theme=dracula&hide_border=true&langs_count=8" width="48%" alt="top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zee908&layout=compact&theme=dracula&hide_border=true&langs_count=6" width="48%" alt="top languages"/>
 
 </div>
 
@@ -30,16 +37,16 @@
 
 ### 🔧 چیزهایی که باهاشون کار می‌کنم
 
-- **Django** — REST APIs, Django REST Framework, Celery, Django Channels  
-- **Node.js** — Express / NestJS, TypeScript, async/await, microservices  
-- **C# / .NET** — ASP.NET Core, Minimal APIs, Entity Framework Core, Clean Architecture  
-- **معماری** — Clean Architecture, DDD, CQRS, Vertical Slice, Modular Monolith  
-- **دیتابیس** — PostgreSQL, MySQL, Redis (caching & queues)  
-- **ابزارها** — Docker, Git, CI/CD basics  
+- **Django** — Django REST Framework, Celery, Django Channels, Class-Based Views  
+- **Python** — asyncio, typing, pytest, poetry / pipenv  
+- **دیتابیس** — PostgreSQL (اصلی)، Redis (caching و queues)  
+- **ابزارها** — Docker, Docker Compose, Git, GitHub Actions  
+- **تمرکز** — REST APIs, clean architecture, performance optimization, testable code  
 
 ### 📌 پروژه‌های منتخب
 
-++
+(اینجا پروژه‌های Django خودت رو پین کن — سعی کن ۳–۵ تا از بهترین‌هات باشه)
+
 <br>
 
 <div align="center">
@@ -59,5 +66,5 @@
 </p>
 
 <p align="center">
-  <i>"Good architecture is invisible. Bad architecture is painful."</i>
+  <i>"Simple is hard. Complex is easy. Clean is beautiful."</i>
 </p>
