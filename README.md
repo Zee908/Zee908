@@ -12,7 +12,7 @@
 <div align="center">
 
   <h3>🛠️ Tech Stack</h3>
-  <img src="https://skillicons.dev/icons?i=django,nodejs,ts,dotnet,cs,postgres,mysql,redis,docker,git,github" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=django,nodejs,ts,dotnet,cs,postgres,mysql,redis,git,github" alt="skills" />
 
   <br><br>
 
