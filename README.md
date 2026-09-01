@@ -43,11 +43,6 @@
 - **ابزارها** — Docker, Docker Compose, Git, GitHub Actions  
 - **تمرکز** — REST APIs, clean architecture, performance optimization, testable code  
 
-### 📌 پروژه‌های منتخب
-
-(اینجا پروژه‌های Django خودت رو پین کن — سعی کن ۳–۵ تا از بهترین‌هات باشه)
-
-<br>
 
 <div align="center">
   <a href="https://linkedin.com/in/zee908">
